@@ -1,0 +1,11 @@
+C:\Users\Veritas\Desktop\Linked List C-Sharp\obj\Debug\netcoreapp3.0\Linked List C-Sharp.csprojAssemblyReference.cache
+C:\Users\Veritas\Desktop\Linked List C-Sharp\obj\Debug\netcoreapp3.0\Linked List C-Sharp.AssemblyInfoInputs.cache
+C:\Users\Veritas\Desktop\Linked List C-Sharp\obj\Debug\netcoreapp3.0\Linked List C-Sharp.AssemblyInfo.cs
+C:\Users\Veritas\Desktop\Linked List C-Sharp\bin\Debug\netcoreapp3.0\Linked List C-Sharp.exe
+C:\Users\Veritas\Desktop\Linked List C-Sharp\bin\Debug\netcoreapp3.0\Linked List C-Sharp.deps.json
+C:\Users\Veritas\Desktop\Linked List C-Sharp\bin\Debug\netcoreapp3.0\Linked List C-Sharp.runtimeconfig.json
+C:\Users\Veritas\Desktop\Linked List C-Sharp\bin\Debug\netcoreapp3.0\Linked List C-Sharp.runtimeconfig.dev.json
+C:\Users\Veritas\Desktop\Linked List C-Sharp\bin\Debug\netcoreapp3.0\Linked List C-Sharp.dll
+C:\Users\Veritas\Desktop\Linked List C-Sharp\bin\Debug\netcoreapp3.0\Linked List C-Sharp.pdb
+C:\Users\Veritas\Desktop\Linked List C-Sharp\obj\Debug\netcoreapp3.0\Linked List C-Sharp.dll
+C:\Users\Veritas\Desktop\Linked List C-Sharp\obj\Debug\netcoreapp3.0\Linked List C-Sharp.pdb
