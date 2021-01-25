@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;//lets me use generic variables
 
-namespace Linked_List_C_Sharp
+namespace program
 {
     class Node
     {
@@ -20,12 +20,12 @@ namespace Linked_List_C_Sharp
 
 
     }
-   public class LinkedList:IEnumerable<string>
+   public class program:IEnumerable<string>
     {
         private Node head;
         private Node tail;
         public int count; //item iterator
-        public LinkedList()
+        public program()
         {
             head = null;
             tail = null;
@@ -167,15 +167,14 @@ namespace Linked_List_C_Sharp
             return GetEnumerator();
         }
     }
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
             string tempItem = "";
-            char reply = 'n';
-
+           
             Node myNode = new Node(tempItem);
-            var myList = new LinkedList();
+            var myList = new program();
 
 
             myList.addLast("apple");
@@ -201,28 +200,7 @@ namespace Linked_List_C_Sharp
             //for non static functions
             //NameofClassObject.functionName
             #endregion
-            #region main
-            //do
-            //{
-            //    myList.addItem(tempItem);
-            //    if (myList.count > 1)
-            //    {
-            //        Console.WriteLine("Delete item?(Y/N)");
-            //        reply = char.Parse(Console.ReadLine());
-            //    }
-            //    if (reply == 'y' || reply == 'Y')
-            //    {
-            //        myList.removeItem(tempItem);
-            //    }
-            //    myList.displayList();
-
-            //    Console.WriteLine("Add another item?(Y/N)");
-
-            //    reply = char.Parse(Console.ReadLine());
-
-            //} while (reply == 'y' || reply == 'Y');
-
-            #endregion
+           
         }
     }
 
